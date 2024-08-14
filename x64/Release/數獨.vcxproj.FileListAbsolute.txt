@@ -1,0 +1,5 @@
+E:\Google 雲端硬碟\私人\程式\CPP\數獨\x64\Release\數獨.exe
+D:\Google 雲端硬碟\私人\程式\CPP\數獨\x64\Release\數獨.exe
+G:\我的雲端硬碟\私人\程式\CPP\數獨\x64\Release\數獨.exe
+E:\Google 雲端硬碟\私人\程式\CPP\數獨\c++ 執行版\x64\Release\數獨.exe
+E:\Google 雲端硬碟\私人\程式\C code\數獨\c++ 執行版\x64\Release\數獨.exe

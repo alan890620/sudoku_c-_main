@@ -1,0 +1,5 @@
+﻿cl : 命令列 warning D9025: 覆寫 '/sdl'，以 '/GS-'
+  數獨.cpp
+G:\私人\程式\C code\數獨\c++ 執行版\數獨.cpp(457,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1941,5): error MSB6006: "rc.exe" 以返回碼 1 結束。

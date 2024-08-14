@@ -1,0 +1,3 @@
+﻿  數獨.cpp
+E:\Google 雲端硬碟\私人\程式\CPP\數獨\數獨.cpp(30,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  數獨.vcxproj -> E:\Google 雲端硬碟\私人\程式\CPP\數獨\Debug\數獨.exe
